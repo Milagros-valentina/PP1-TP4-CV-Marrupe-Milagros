@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+font-family: monserrat, Arial, Helvetica, sans-serif;    
+}
+
+.section-1{
+ display: flex;
+padding: 30px 20px;
+gap: 50px;
+}
+
+.section-1 img{
+    width: 250px;
+    height: auto;
+}
+
+.section-1 h1{
+    font-size: 50px;
+
+}
+.datos {
+    flex-direction: column;
+}
+
+.datos i{
+ margin: 10px;
+}
+
+.section-2{
+    margin: 20px 50px;
+}
+
+.section-2 h2{
+    font-size: 30px;
+}
+
+.section-2 li{
+    margin: 10px 0;
+}
+
+hr{
+    margin: 10px 0px;
+    border-top: 2px solid black;
+}
